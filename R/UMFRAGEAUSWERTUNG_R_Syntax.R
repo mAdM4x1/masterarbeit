@@ -282,11 +282,9 @@ data$lastpage <- as.numeric(as.character(data$lastpage))
 str(data$lastpage)
 summary(data$lastpage)
 
-# Ensure all possible levels, including those with zero counts, are included
 all_levels <- c(-1, 1:max(as.numeric(data[[variable_name]]), na.rm = TRUE))
 data[[variable_name]] <- factor(data[[variable_name]], levels = all_levels)
 
-# Zählen der Antworten pro Kategorie
 counts <- data %>%
   count(!!sym(variable_name), .drop = FALSE) %>%
   complete(!!sym(variable_name), fill = list(n = 0)) %>%
