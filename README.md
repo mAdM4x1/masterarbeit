@@ -10,5 +10,5 @@ vorgelegt von:		Göhring, Florian Maximilian
 
 ## Inhalte
 - PSPP-Datei zur statistischen Auswertung der Limesurvey-Umfrage
-- R-Datei zur visualisierung der Graphen
+- R-Dateien zur visualisierung der Graphen
 - Python-Code für weitere Visualisierungen und Berechnungen
