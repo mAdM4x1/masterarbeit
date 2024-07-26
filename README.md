@@ -29,3 +29,12 @@ vorgelegt von:		Göhring, Florian Maximilian
 2. Es wird eine neue `data.csv` erzeugt. Sie dient als Berechnungsgrundlage für das Python-Skript.
 3. In R werden die Balkendiagramme erzeugt. Sie beinhalten absolute und relative Angaben zur Häufigkeit sowie die Gesamtanzahl der Antworten.
 4. In Python wird die Korrelationsmatrix sowie die Heatmaps erzeugt. Außerdem wird eine Übersicht der Kreuztabellen erzeugt und als CSV exportiert.
+
+## Anwendung
+
+Die notwendigen Pakete der jeweiligen Anwendungen müssen installiert sein. Folgend können die Schritte durchgeführt werden:
+
+1. PSPP-Skript ausführen --> Datengrundlage für Python-Berechnungen
+2. R-Skript ausführen
+3. Python-Skript ausführen
+
