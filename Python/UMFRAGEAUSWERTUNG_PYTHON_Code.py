@@ -59,21 +59,22 @@ def cramers_v(chi2, n, k, r):
 
 def generate_crosstab_results(data):
     crosstabs_chi2_results = []
-    for row_var in row_vars:
-        for col_var in col_vars:
-            crosstab, chi2, p, dof, expected = crosstab_and_chi2(data, row_var, col_var)
-            n = len(data.dropna(subset=[row_var, col_var]))
-            k = data[col_var].nunique()
-            r = data[row_var].nunique()
-            v = cramers_v(chi2, n, k, r)
-            crosstabs_chi2_results.append({
-                'Zeilenvariable': row_var,
-                'Spaltenvariable': col_var,
-                'Chi-Quadrat': chi2,
-                'p-Wert': p,
-                'Grad der Freiheit': dof,
-                'Cramér\'s V': v
-            })
+    for row_var in columns:
+        for col_var in columns:
+            if row_var != col_var:
+                crosstab, chi2, p, dof, expected = crosstab_and_chi2(data, row_var, col_var)
+                n = len(data.dropna(subset=[row_var, col_var]))
+                k = data[col_var].nunique()
+                r = data[row_var].nunique()
+                v = cramers_v(chi2, n, k, r)
+                crosstabs_chi2_results.append({
+                    'Zeilenvariable': row_var,
+                    'Spaltenvariable': col_var,
+                    'Chi-Quadrat': chi2,
+                    'p-Wert': p,
+                    'Grad der Freiheit': dof,
+                    'Cramér\'s V': v
+                })
     crosstabs_df = pd.DataFrame(crosstabs_chi2_results)
     crosstabs_df.to_csv("./Python/crosstab_calculation.csv")
     crosstabs_df.to_excel("./Python/crosstab_calculation.xlsx", index=False)
@@ -90,9 +91,10 @@ def plot_heatmap(row_var, col_var, data):
     plt.close()
 
 def generate_heatmaps(data):
-    for row_var in row_vars:
-        for col_var in col_vars:
-            plot_heatmap(row_var, col_var, data)
+    for row_var in columns:
+        for col_var in columns:
+            if row_var != col_var:
+                plot_heatmap(row_var, col_var, data)
 
 if __name__ == "__main__":
     survey_data = load_data()
