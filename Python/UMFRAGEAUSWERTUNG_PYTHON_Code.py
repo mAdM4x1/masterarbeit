@@ -5,7 +5,7 @@ import seaborn as sns
 from scipy.stats import chi2_contingency
 
 data_path = './Python/data.csv'
-image_path = './Python/images'
+image_path = './images'
 
 # Ausgewählte Spalten
 columns = [
@@ -27,8 +27,6 @@ columns = [
     'DEMO2', 
     'DEMO3'
 ]
-row_vars = ['U1', 'F1', 'F2', 'DEMO1', 'DEMO2', 'DEMO3']
-col_vars = ['U2_SQ001', 'D1_DIFF3', 'D1_DIFF4', 'D1_DIFF6', 'D1_DIFF9', 'D2_DIFF1', 'D2_DIFF2', 'D2_DIFF5', 'D2_DIFF7', 'D2_DIFF8', 'UF1']
 
 def load_data():
     survey_data = pd.read_csv(data_path, delimiter=';')
