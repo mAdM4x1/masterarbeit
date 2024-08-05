@@ -66,12 +66,12 @@ def generate_crosstab_results(data):
                 r = data[row_var].nunique()
                 v = cramers_v(chi2, n, k, r)
                 crosstabs_chi2_results.append({
-                    'Zeilenvariable': row_var,
-                    'Spaltenvariable': col_var,
+                    'Variable A': row_var,
+                    'Variable B': col_var,
                     'Chi-Quadrat': chi2,
                     'p-Wert': p,
                     'Grad der Freiheit': dof,
-                    'Cramér\'s V': v
+                    'Cramer\'s V': v
                 })
     crosstabs_df = pd.DataFrame(crosstabs_chi2_results)
     crosstabs_df.to_csv("./Python/crosstab_calculation.csv")

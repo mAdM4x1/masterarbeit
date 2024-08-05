@@ -1,4 +1,4 @@
-,Zeilenvariable,Spaltenvariable,Chi-Quadrat,p-Wert,Grad der Freiheit,Cramér's V
+,Variable A,Variable B,Chi-Quadrat,p-Wert,Grad der Freiheit,Cramer's V
 0,U1,U2_SQ001,23.816281433597773,0.000564490046243639,6,0.4169430060790466
 1,U1,F1,1.2279674578464221,0.267802683562384,1,0.09537324175735472
 2,U1,F2,0.0,1.0,1,0.0
