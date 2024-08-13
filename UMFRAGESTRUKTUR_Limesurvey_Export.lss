@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+ <LimeSurveyDocType>Survey</LimeSurveyDocType>
+ <DBVersion>366</DBVersion>
+ <languages>
+  <language>de</language>
+ </languages>
+ <answers>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>code</fieldname>
+   <fieldname>answer</fieldname>
+   <fieldname>sortorder</fieldname>
+   <fieldname>assessment_value</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A1]]></code>
+    <answer><![CDATA[ Stimme überhaupt nicht zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A2]]></code>
+    <answer><![CDATA[ Stimme nicht zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A3]]></code>
+    <answer><![CDATA[ Stimme eher nicht zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A4]]></code>
+    <answer><![CDATA[ Weder noch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A5]]></code>
+    <answer><![CDATA[ Stimme eher zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A6]]></code>
+    <answer><![CDATA[ Stimme zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <code><![CDATA[A7]]></code>
+    <answer><![CDATA[ Stimme voll und ganz zu]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L1]]></code>
+    <answer><![CDATA[Stimme überhaupt nicht zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L2]]></code>
+    <answer><![CDATA[Stimme nicht zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L3]]></code>
+    <answer><![CDATA[Stimme eher nicht zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L4]]></code>
+    <answer><![CDATA[Weder noch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L5]]></code>
+    <answer><![CDATA[Stimme eher zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L6]]></code>
+    <answer><![CDATA[Stimme zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <code><![CDATA[L7]]></code>
+    <answer><![CDATA[Stimme voll und ganz zu]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF1]]></code>
+    <answer><![CDATA[Überhaupt nicht wünschenswert]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF2]]></code>
+    <answer><![CDATA[Nicht wünschenswert]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF3]]></code>
+    <answer><![CDATA[Eher nicht wünschenswert]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF4]]></code>
+    <answer><![CDATA[Weder noch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF5]]></code>
+    <answer><![CDATA[Eher wünschenswert]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF6]]></code>
+    <answer><![CDATA[Wünschenswert]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <code><![CDATA[LUF7]]></code>
+    <answer><![CDATA[Sehr wünschenswert]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM11]]></code>
+    <answer><![CDATA[Unter 18]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM12]]></code>
+    <answer><![CDATA[18 - 24]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM13]]></code>
+    <answer><![CDATA[25 - 34]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM14]]></code>
+    <answer><![CDATA[35 - 44]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM15]]></code>
+    <answer><![CDATA[45 - 54]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM16]]></code>
+    <answer><![CDATA[55 - 64]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM17]]></code>
+    <answer><![CDATA[Über 64]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <code><![CDATA[DEM18]]></code>
+    <answer><![CDATA[Keine Angabe]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420357]]></qid>
+    <code><![CDATA[33840]]></code>
+    <answer><![CDATA[Männlich]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420357]]></qid>
+    <code><![CDATA[47169]]></code>
+    <answer><![CDATA[Weiblich]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420357]]></qid>
+    <code><![CDATA[52971]]></code>
+    <answer><![CDATA[Divers]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420357]]></qid>
+    <code><![CDATA[80437]]></code>
+    <answer><![CDATA[Keine Angabe]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM31]]></code>
+    <answer><![CDATA[Student/in]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM32]]></code>
+    <answer><![CDATA[Angestellt (Vollzeit)]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM33]]></code>
+    <answer><![CDATA[Selbstständig]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM34]]></code>
+    <answer><![CDATA[Arbeitssuchend]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM35]]></code>
+    <answer><![CDATA[Rente/Pension]]></answer>
+    <sortorder><![CDATA[8]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM36]]></code>
+    <answer><![CDATA[Keine Angabe]]></answer>
+    <sortorder><![CDATA[9]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM37]]></code>
+    <answer><![CDATA[Angestellt (Teilzeit)]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM38]]></code>
+    <answer><![CDATA[Schüler/in]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <code><![CDATA[DEM39]]></code>
+    <answer><![CDATA[Auszubildende/r]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L1]]></code>
+    <answer><![CDATA[Stimme überhaupt nicht zu]]></answer>
+    <sortorder><![CDATA[1]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L2]]></code>
+    <answer><![CDATA[Stimme nicht zu]]></answer>
+    <sortorder><![CDATA[2]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L3]]></code>
+    <answer><![CDATA[Stimme eher nicht zu]]></answer>
+    <sortorder><![CDATA[3]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L4]]></code>
+    <answer><![CDATA[Weder noch]]></answer>
+    <sortorder><![CDATA[4]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L5]]></code>
+    <answer><![CDATA[Stimme eher zu]]></answer>
+    <sortorder><![CDATA[5]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L6]]></code>
+    <answer><![CDATA[Stimme zu]]></answer>
+    <sortorder><![CDATA[6]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <code><![CDATA[L7]]></code>
+    <answer><![CDATA[Stimme voll und ganz zu]]></answer>
+    <sortorder><![CDATA[7]]></sortorder>
+    <assessment_value><![CDATA[0]]></assessment_value>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+   </row>
+  </rows>
+ </answers>
+ <conditions>
+  <fields>
+   <fieldname>cid</fieldname>
+   <fieldname>qid</fieldname>
+   <fieldname>cqid</fieldname>
+   <fieldname>cfieldname</fieldname>
+   <fieldname>method</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>scenario</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <cid><![CDATA[67887]]></cid>
+    <qid><![CDATA[420320]]></qid>
+    <cqid><![CDATA[420319]]></cqid>
+    <cfieldname><![CDATA[257533X34549X420319]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[67889]]></cid>
+    <qid><![CDATA[420321]]></qid>
+    <cqid><![CDATA[420320]]></cqid>
+    <cfieldname><![CDATA[257533X34549X420320]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[Y]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+   <row>
+    <cid><![CDATA[67890]]></cid>
+    <qid><![CDATA[420334]]></qid>
+    <cqid><![CDATA[420320]]></cqid>
+    <cfieldname><![CDATA[257533X34549X420320]]></cfieldname>
+    <method><![CDATA[==]]></method>
+    <value><![CDATA[N]]></value>
+    <scenario><![CDATA[1]]></scenario>
+   </row>
+  </rows>
+ </conditions>
+ <groups>
+  <fields>
+   <fieldname>gid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>group_name</fieldname>
+   <fieldname>group_order</fieldname>
+   <fieldname>description</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>randomization_group</fieldname>
+   <fieldname>grelevance</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <gid><![CDATA[34548]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Unternehmen in Social Media]]></group_name>
+    <group_order><![CDATA[1]]></group_order>
+    <description><![CDATA[<span style="font-size:14px;">In diesem Abschnitt geht es um die Interaktion mit Unternehmen in den sozialen Medien.</span>]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34549]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Bekanntheit und Nutzung des Fediverse]]></group_name>
+    <group_order><![CDATA[2]]></group_order>
+    <description><![CDATA[<p><span style="font-size:14px;">In diesem Abschnitt geht es um das Fediverse, dessen Bekanntheit und Verwendung.</span></p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34550]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Unterschiede zum CSW - Inhaltliche Unterschiede]]></group_name>
+    <group_order><![CDATA[4]]></group_order>
+    <description><![CDATA[<p><span style="font-size:14px;">Im folgenden Abschnitt geht es um den <strong>inhaltlichen </strong>Vergleich des Fediverse mit dem Commercial Social Web (CSW).</span></p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34551]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Unternehmen im Fediverse]]></group_name>
+    <group_order><![CDATA[5]]></group_order>
+    <description><![CDATA[<p><span style="font-size:14px;">Der letzte inhaltliche Abschnitt bezieht sich auf das Fediverse und Unternehmen innerhalb dieses Social Webs.</span></p>
+
+<p><span style="font-size:14px;">Bitte haben Sie keine Bedenken, diese Frage zu beantworten, sollten Sie das Fediverse nicht kennen. Es gibt keine falschen Antworten. Ich bitte Sie, basierend auf Ihrem ersten Eindruck und Ihrem Bauchgefühl, eine Einschätzung vorzunehmen.</span></p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34552]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Demografische Daten]]></group_name>
+    <group_order><![CDATA[6]]></group_order>
+    <description><![CDATA[<span style="font-size:14px;">Die demografischen Daten helfen bei der Untersuchung von Nutzergruppen zur Validierung oder Widerlegung von Hypothesen.</span>]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+   <row>
+    <gid><![CDATA[34636]]></gid>
+    <sid><![CDATA[257533]]></sid>
+    <group_name><![CDATA[Unterschiede zum CSW - Technische Unterschiede]]></group_name>
+    <group_order><![CDATA[3]]></group_order>
+    <description><![CDATA[<p><span style="font-size:14px;">Im folgenden Abschnitt geht es um den <strong>technischen</strong> Vergleich des Fediverse mit dem Commercial Social Web (CSW).</span></p>
+
+<hr />
+<h4>Ergänzende Informationen</h4>
+
+<p> </p>
+
+<h5>Commercial Social Web</h5>
+
+<p>Das CSW bezeichnet die Social-Media-Plattformen, die zentral <strong>durch Unternehmen geführt</strong> werden und durch <strong>kommerzielle Verwendung von Daten</strong> ausgezeichnet sind. Das <strong>Unternehmen ist alleine</strong> für die Bereitstellung sowie die Verwaltung der Daten <strong>verantwortlich</strong>. In der Regel sind die Funktionen "unter der Haube" und Datenflüsse <strong>nicht einsehbar</strong>.</p>
+
+<h5><br />Fediverse</h5>
+
+<p>Das Fediverse ist ein <strong>quelloffenes, dezentrales</strong> soziales Netzwerk. Die Grundidee des Fediverse besteht darin, dass <strong>ein Benutzerkonto</strong> auf jeder beliebigen Plattform die Möglichkeit hat, sich <strong>mit jedem Benutzerkonto auf jeder beliebigen</strong>, und damit auch anderen, <strong>Plattform auszutauschen</strong>. Es ist <strong>werbefrei </strong>und <strong>nicht durch Unternehmen geführt</strong>, sondern durch viele verschiedene Betreiber. Das Gesamtsystem ergibt sich aus dem Zusammenschluss aller Teile. Alle <strong>Funktionen und Datenflüsse sind</strong> dabei <strong>einsehbar</strong>.</p>
+]]></description>
+    <language><![CDATA[de]]></language>
+    <randomization_group/>
+    <grelevance/>
+   </row>
+  </rows>
+ </groups>
+ <questions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[420316]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34548]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[U1]]></title>
+    <question><![CDATA[<p>Haben Sie schon einmal mit einem Unternehmen in Social Media interagiert?</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[Mit Interagieren ist jede Art der Interaktion mit einem Unternehmen gemeint, vom einfachen Ansehen von Inhalten über „Like“ oder Folgen bis zur Partizipation an Diskussionen und direkte Kontaktaufnahme.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420317]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34548]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[U2]]></title>
+    <question><![CDATA[Bitte bewerten Sie die folgende Aussage.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420319]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[F1]]></title>
+    <question><![CDATA[Kennen Sie das Fediverse?]]></question>
+    <preg/>
+    <help><![CDATA[<span class="text-format-content">Das Fediverse ist ein alternatives soziales Web. Die bekanntesten Plattformen sind Mastodon als Alternative zu X (</span>ehemals bekannt als Twitter<span class="text-format-content">), Pixelfed als Alternative zu Instagram sowie Friendica als Alternative zu Facebook.</span>]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420320]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[Y]]></type>
+    <title><![CDATA[F2]]></title>
+    <question><![CDATA[<p>Nutzen Sie das Fediverse?</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Sind Sie aktiv auf einer der Plattformen des Fediverse, z.B. Mastodon, Pixelfed, Friendica o. Ä.<br /><span style="font-size:10px;">(nur auszufüllen, wenn Sie die vorherige Frage mit „Ja“ beantwortet haben)</span></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((257533X34549X420319.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420321]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[F3]]></title>
+    <question><![CDATA[<p>Wofür nutzen Sie das Fediverse?<span style="font-size:10px;"> </span> </p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Bitte wählen Sie die entsprechenden Gründe aus (Mehrfachauswahl möglich)<br /><span style="font-size:10px;">(nur auszufüllen, wenn Sie die Frage „Nutzen Sie das Fediverse?“ mit „Ja“ beantwortet haben)</span></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((257533X34549X420320.NAOK == "Y"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420334]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[M]]></type>
+    <title><![CDATA[F4]]></title>
+    <question><![CDATA[<p>Weshalb nutzen Sie das Fediverse nicht?</p>
+]]></question>
+    <preg/>
+    <help><![CDATA[<p>Bitte wählen Sie die entsprechenden Gründe aus (Mehrfachauswahl möglich)<br /><span style="font-size:10px;">(nur auszufüllen, wenn Sie die Frage „Nutzen Sie das Fediverse?“ mit „Nein“ beantwortet haben)</span></p>
+]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[((257533X34549X420320.NAOK == "N"))]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34636]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[D1]]></title>
+    <question><![CDATA[Bewerten Sie bitte die folgenden Aussagen.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420355]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34551]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[UF1]]></title>
+    <question><![CDATA[Wie wünschenswert ist es Ihrer Meinung nach, dass im Fediverse mehr Unternehmen repräsentiert sind, um mit Ihnen zu interagieren?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[420356]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34552]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[DEMO1]]></title>
+    <question><![CDATA[Wie alt sind Sie?]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420357]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34552]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[DEMO2]]></title>
+    <question><![CDATA[<p>Welchem Geschlecht fühlen Sie sich zugehörig?</p>
+]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[420358]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34552]]></gid>
+    <type><![CDATA[L]]></type>
+    <title><![CDATA[DEMO3]]></title>
+    <question><![CDATA[Was ist derzeitiger Berufsstatus?]]></question>
+    <preg/>
+    <help><![CDATA[Sollten bei Ihnen mehrere Antwortmöglichkeiten zutreffen, wählen Sie bitte Ihren <strong>primären </strong>Berufsstatus aus.]]></help>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <parent_qid><![CDATA[0]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[F]]></type>
+    <title><![CDATA[D2]]></title>
+    <question><![CDATA[Bewerten Sie bitte die folgenden Aussagen.]]></question>
+    <preg/>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <mandatory><![CDATA[Y]]></mandatory>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+  </rows>
+ </questions>
+ <subquestions>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>parent_qid</fieldname>
+   <fieldname>sid</fieldname>
+   <fieldname>gid</fieldname>
+   <fieldname>type</fieldname>
+   <fieldname>title</fieldname>
+   <fieldname>question</fieldname>
+   <fieldname>preg</fieldname>
+   <fieldname>help</fieldname>
+   <fieldname>other</fieldname>
+   <fieldname>mandatory</fieldname>
+   <fieldname>question_order</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>scale_id</fieldname>
+   <fieldname>same_default</fieldname>
+   <fieldname>relevance</fieldname>
+   <fieldname>modulename</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[420318]]></qid>
+    <parent_qid><![CDATA[420317]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34548]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[SQ001]]></title>
+    <question><![CDATA[Mir ist es wichtig, mit Unternehmen in Social Media interagieren zu können.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420323]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN1]]></title>
+    <question><![CDATA[Mit Freunden und Familie in Kontakt bleiben]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420324]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN2]]></title>
+    <question><![CDATA[Neue Stories lesen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420325]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN3]]></title>
+    <question><![CDATA[Auffinden von Content]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420326]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN4]]></title>
+    <question><![CDATA[Diskussionsthemen finden]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420327]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN5]]></title>
+    <question><![CDATA[Unternehmungen finden]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420328]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN6]]></title>
+    <question><![CDATA[Produkte finden]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420329]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN7]]></title>
+    <question><![CDATA[Teilen und Diskutieren von Meinungen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420330]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN8]]></title>
+    <question><![CDATA[Neue Kontakte knüpfen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420331]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN9]]></title>
+    <question><![CDATA[Arbeitsbezogenes Networking oder Nachforschen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420332]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN10]]></title>
+    <question><![CDATA[Berühmten Persönlichkeiten oder Influencern folgen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[10]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420333]]></qid>
+    <parent_qid><![CDATA[420321]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FN11]]></title>
+    <question><![CDATA[Posts über das eigene Leben verfassen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[11]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420336]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN1]]></title>
+    <question><![CDATA[Kein Interesse]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420337]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN2]]></title>
+    <question><![CDATA[Zu kompliziert]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420338]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN3]]></title>
+    <question><![CDATA[Die Plattformen gefallen mir nicht]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420339]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN4]]></title>
+    <question><![CDATA[Mir fehlen Funktionen]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420340]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN5]]></title>
+    <question><![CDATA[Zu wenig Nutzer]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420341]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN6]]></title>
+    <question><![CDATA[Ich finde keinen passenden Content]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[6]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420342]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN7]]></title>
+    <question><![CDATA[Sicherheitsbedenken]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[7]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420343]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN8]]></title>
+    <question><![CDATA[Datenschutzbedenken]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[8]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420348]]></qid>
+    <parent_qid><![CDATA[420344]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34636]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF3]]></title>
+    <question><![CDATA[Es ist mir wichtig, dass größere Transparenz bei der Anwendung, den Protokollen und dem Datenaustausch gegeben ist.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420349]]></qid>
+    <parent_qid><![CDATA[420344]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34636]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF4]]></title>
+    <question><![CDATA[Ich bevorzuge eine Plattform, bei der Daten und Kontrolle auf viele verschiedene Gruppen verteilt sind, anstatt eine Plattform, bei der alles von einer einzigen Organisation kontrolliert wird.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420351]]></qid>
+    <parent_qid><![CDATA[420344]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34636]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF6]]></title>
+    <question><![CDATA[Es ist mir wichtig, dass hohe Datenschutzstandards eingehalten werden.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[420354]]></qid>
+    <parent_qid><![CDATA[420344]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34636]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF9]]></title>
+    <question><![CDATA[Ich bevorzuge einen Account für alle Plattformen, statt je Plattform einen eigenen Account zu haben.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+   <row>
+    <qid><![CDATA[421242]]></qid>
+    <parent_qid><![CDATA[421241]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF1]]></title>
+    <question><![CDATA[Social-Media-Plattformen sollten durch den Verkauf von Nutzerdaten oder Werbung monetarisiert werden.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[1]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[421243]]></qid>
+    <parent_qid><![CDATA[421241]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF2]]></title>
+    <question><![CDATA[Dem Einsatz von algorithmischen Ranking-Systemen zur Priorisierung von Content stehe ich positiv gegenüber.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[2]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[421246]]></qid>
+    <parent_qid><![CDATA[421241]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF5]]></title>
+    <question><![CDATA[Ich stehe Unternehmen positiv gegenüber, die auf Social Media Marketing, Verkauf und Service anbieten.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[3]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[421248]]></qid>
+    <parent_qid><![CDATA[421241]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF7]]></title>
+    <question><![CDATA[Ich bewerte die Übernahmemöglichkeit von Social-Media-Plattformen durch andere Unternehmen als positiv.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[4]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[421249]]></qid>
+    <parent_qid><![CDATA[421241]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34550]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[DIFF8]]></title>
+    <question><![CDATA[Es ist mir wichtig, dass politische Unabhängigkeit und Neutralität gegeben sind.]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[5]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+   </row>
+   <row>
+    <qid><![CDATA[422081]]></qid>
+    <parent_qid><![CDATA[420334]]></parent_qid>
+    <sid><![CDATA[257533]]></sid>
+    <gid><![CDATA[34549]]></gid>
+    <type><![CDATA[T]]></type>
+    <title><![CDATA[FNN9]]></title>
+    <question><![CDATA[Noch nicht eingehend damit beschäftigt]]></question>
+    <help/>
+    <other><![CDATA[N]]></other>
+    <question_order><![CDATA[9]]></question_order>
+    <language><![CDATA[de]]></language>
+    <scale_id><![CDATA[0]]></scale_id>
+    <same_default><![CDATA[0]]></same_default>
+    <relevance><![CDATA[1]]></relevance>
+    <modulename/>
+   </row>
+  </rows>
+ </subquestions>
+ <question_attributes>
+  <fields>
+   <fieldname>qid</fieldname>
+   <fieldname>attribute</fieldname>
+   <fieldname>value</fieldname>
+   <fieldname>language</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <qid><![CDATA[420321]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[420334]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[420344]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+   <row>
+    <qid><![CDATA[421241]]></qid>
+    <attribute><![CDATA[random_order]]></attribute>
+    <value><![CDATA[1]]></value>
+   </row>
+  </rows>
+ </question_attributes>
+ <surveys>
+  <fields>
+   <fieldname>sid</fieldname>
+   <fieldname>gsid</fieldname>
+   <fieldname>admin</fieldname>
+   <fieldname>expires</fieldname>
+   <fieldname>startdate</fieldname>
+   <fieldname>adminemail</fieldname>
+   <fieldname>anonymized</fieldname>
+   <fieldname>faxto</fieldname>
+   <fieldname>format</fieldname>
+   <fieldname>savetimings</fieldname>
+   <fieldname>template</fieldname>
+   <fieldname>language</fieldname>
+   <fieldname>additional_languages</fieldname>
+   <fieldname>datestamp</fieldname>
+   <fieldname>usecookie</fieldname>
+   <fieldname>allowregister</fieldname>
+   <fieldname>allowsave</fieldname>
+   <fieldname>autonumber_start</fieldname>
+   <fieldname>autoredirect</fieldname>
+   <fieldname>allowprev</fieldname>
+   <fieldname>printanswers</fieldname>
+   <fieldname>ipaddr</fieldname>
+   <fieldname>refurl</fieldname>
+   <fieldname>showsurveypolicynotice</fieldname>
+   <fieldname>publicstatistics</fieldname>
+   <fieldname>publicgraphs</fieldname>
+   <fieldname>listpublic</fieldname>
+   <fieldname>htmlemail</fieldname>
+   <fieldname>sendconfirmation</fieldname>
+   <fieldname>tokenanswerspersistence</fieldname>
+   <fieldname>assessments</fieldname>
+   <fieldname>usecaptcha</fieldname>
+   <fieldname>usetokens</fieldname>
+   <fieldname>bounce_email</fieldname>
+   <fieldname>attributedescriptions</fieldname>
+   <fieldname>emailresponseto</fieldname>
+   <fieldname>emailnotificationto</fieldname>
+   <fieldname>tokenlength</fieldname>
+   <fieldname>showxquestions</fieldname>
+   <fieldname>showgroupinfo</fieldname>
+   <fieldname>shownoanswer</fieldname>
+   <fieldname>showqnumcode</fieldname>
+   <fieldname>bouncetime</fieldname>
+   <fieldname>bounceprocessing</fieldname>
+   <fieldname>bounceaccounttype</fieldname>
+   <fieldname>bounceaccounthost</fieldname>
+   <fieldname>bounceaccountpass</fieldname>
+   <fieldname>bounceaccountencryption</fieldname>
+   <fieldname>bounceaccountuser</fieldname>
+   <fieldname>showwelcome</fieldname>
+   <fieldname>showprogress</fieldname>
+   <fieldname>questionindex</fieldname>
+   <fieldname>navigationdelay</fieldname>
+   <fieldname>nokeyboard</fieldname>
+   <fieldname>alloweditaftercompletion</fieldname>
+   <fieldname>googleanalyticsstyle</fieldname>
+   <fieldname>googleanalyticsapikey</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <sid><![CDATA[257533]]></sid>
+    <gsid><![CDATA[1]]></gsid>
+    <admin><![CDATA[Göhring, Florian Maximilian]]></admin>
+    <expires><![CDATA[2024-07-14 23:59:00]]></expires>
+    <startdate><![CDATA[2024-06-13 14:30:00]]></startdate>
+    <adminemail><![CDATA[florian.goehring@uni-leipzig.de]]></adminemail>
+    <anonymized><![CDATA[Y]]></anonymized>
+    <faxto/>
+    <format><![CDATA[G]]></format>
+    <savetimings><![CDATA[N]]></savetimings>
+    <template><![CDATA[ds_extends_MA_Marie_Umfragedesign]]></template>
+    <language><![CDATA[de]]></language>
+    <additional_languages/>
+    <datestamp><![CDATA[N]]></datestamp>
+    <usecookie><![CDATA[Y]]></usecookie>
+    <allowregister><![CDATA[N]]></allowregister>
+    <allowsave><![CDATA[Y]]></allowsave>
+    <autonumber_start><![CDATA[0]]></autonumber_start>
+    <autoredirect><![CDATA[N]]></autoredirect>
+    <allowprev><![CDATA[Y]]></allowprev>
+    <printanswers><![CDATA[N]]></printanswers>
+    <ipaddr><![CDATA[N]]></ipaddr>
+    <refurl><![CDATA[N]]></refurl>
+    <showsurveypolicynotice><![CDATA[0]]></showsurveypolicynotice>
+    <publicstatistics><![CDATA[N]]></publicstatistics>
+    <publicgraphs><![CDATA[N]]></publicgraphs>
+    <listpublic><![CDATA[Y]]></listpublic>
+    <htmlemail><![CDATA[Y]]></htmlemail>
+    <sendconfirmation><![CDATA[Y]]></sendconfirmation>
+    <tokenanswerspersistence><![CDATA[N]]></tokenanswerspersistence>
+    <assessments><![CDATA[N]]></assessments>
+    <usecaptcha><![CDATA[N]]></usecaptcha>
+    <usetokens><![CDATA[N]]></usetokens>
+    <bounce_email><![CDATA[florian.goehring@uni-leipzig.de]]></bounce_email>
+    <emailresponseto/>
+    <emailnotificationto/>
+    <tokenlength><![CDATA[15]]></tokenlength>
+    <showxquestions><![CDATA[Y]]></showxquestions>
+    <showgroupinfo><![CDATA[B]]></showgroupinfo>
+    <shownoanswer><![CDATA[N]]></shownoanswer>
+    <showqnumcode><![CDATA[X]]></showqnumcode>
+    <bounceprocessing><![CDATA[N]]></bounceprocessing>
+    <showwelcome><![CDATA[Y]]></showwelcome>
+    <showprogress><![CDATA[Y]]></showprogress>
+    <questionindex><![CDATA[2]]></questionindex>
+    <navigationdelay><![CDATA[0]]></navigationdelay>
+    <nokeyboard><![CDATA[N]]></nokeyboard>
+    <alloweditaftercompletion><![CDATA[N]]></alloweditaftercompletion>
+    <googleanalyticsstyle/>
+    <googleanalyticsapikey/>
+   </row>
+  </rows>
+ </surveys>
+ <surveys_languagesettings>
+  <fields>
+   <fieldname>surveyls_survey_id</fieldname>
+   <fieldname>surveyls_language</fieldname>
+   <fieldname>surveyls_title</fieldname>
+   <fieldname>surveyls_description</fieldname>
+   <fieldname>surveyls_welcometext</fieldname>
+   <fieldname>surveyls_endtext</fieldname>
+   <fieldname>surveyls_policy_notice</fieldname>
+   <fieldname>surveyls_policy_error</fieldname>
+   <fieldname>surveyls_policy_notice_label</fieldname>
+   <fieldname>surveyls_url</fieldname>
+   <fieldname>surveyls_urldescription</fieldname>
+   <fieldname>surveyls_email_invite_subj</fieldname>
+   <fieldname>surveyls_email_invite</fieldname>
+   <fieldname>surveyls_email_remind_subj</fieldname>
+   <fieldname>surveyls_email_remind</fieldname>
+   <fieldname>surveyls_email_register_subj</fieldname>
+   <fieldname>surveyls_email_register</fieldname>
+   <fieldname>surveyls_email_confirm_subj</fieldname>
+   <fieldname>surveyls_email_confirm</fieldname>
+   <fieldname>surveyls_dateformat</fieldname>
+   <fieldname>surveyls_attributecaptions</fieldname>
+   <fieldname>email_admin_notification_subj</fieldname>
+   <fieldname>email_admin_notification</fieldname>
+   <fieldname>email_admin_responses_subj</fieldname>
+   <fieldname>email_admin_responses</fieldname>
+   <fieldname>surveyls_numberformat</fieldname>
+   <fieldname>attachments</fieldname>
+  </fields>
+  <rows>
+   <row>
+    <surveyls_survey_id><![CDATA[257533]]></surveyls_survey_id>
+    <surveyls_language><![CDATA[de]]></surveyls_language>
+    <surveyls_title><![CDATA[Potenziale des Fediverse im Rahmen von Social Customer Relationship Management]]></surveyls_title>
+    <surveyls_description><![CDATA[<p> </p>
+
+<p><span style="font-size:11px;">Diese Umfrage wird <span style="line-height:normal;">im Rahmen einer Masterarbeit an der Universität Leipzig durchgeführt. Es sollen das klassische Social Web (hier auch bezeichnet als "Commercial Social Web", CSW) mit dem Fediverse in Bezug zu Social Customer Relationship Management verglichen werden. Nach der Identifikation von Gemeinsamkeiten und Unterschieden und den daraus resultierenden Potenzialen und Risiken, sollen nun die Nutzer befragt werden, wie sie zu den unterschiedlichen Ansätzen stehen. Aus den theoretischen und empirischen Erkenntnissen lassen sich Ableitungen für weitere Forschung und Praxis treffen.</span></span></p>
+
+<p> </p>
+]]></surveyls_description>
+    <surveyls_welcometext><![CDATA[<p align="left" style="text-align:left;"> </p>
+
+<p align="left" style="text-align:left;"><span style="line-height:normal;">Liebe Teilnehmerin, lieber Teilnehmer, </span></p>
+
+<p align="left" style="text-align:left;"><br /><span style="line-height:normal;">im Rahmen einer Masterarbeit an der Universität Leipzig führe ich eine Umfrage zum Thema <i>"Potenziale des Fediverse im Kontext Social Customer Relationship Management (SCRM)"</i>  durch. Die Befragung hat einen rein wissenschaftlichen Zweck. Ihre Beantwortung dauert höchstens <strong>10 Minuten</strong>. Jede Meinung ist wichtig, daher bitte ich um Ihre Unterstützung der Erhebung.<br /><br />Sie nehmen <b>freiwillig </b>teil. Ihre Angaben sind völlig <b>anonym</b>: Das bedeutet, dass Ihre Antworten mit Ihrer Person in keinerlei Verbindung gebracht werden können! Die erhobenen Daten werden <b>streng vertraulich</b> behandelt und keinesfalls an Dritte weitergegeben.<br /><br />Herzlichen Dank für Ihre Teilnahme!<br />Florian Göhring</span></p>
+
+<p align="left" style="text-align:left;"> </p>
+]]></surveyls_welcometext>
+    <surveyls_endtext><![CDATA[<p> </p>
+
+<p>Vielen Dank, dass Sie sich die Zeit genommen haben, an dieser Umfrage teilzunehmen. Ihre Antworten sind für meine Forschung von großem Wert. Falls Sie Fragen oder Anmerkungen haben, können Sie mich gerne kontaktieren:</p>
+
+<p><br /><a href="mailto:florian.goehring@uni-leipzig.de?subject=Nachfrage%2FFeedback%20zur%20Umfrage">florian.goehring@uni-leipzig.de</a></p>
+
+<p> </p>
+]]></surveyls_endtext>
+    <surveyls_policy_notice/>
+    <surveyls_policy_error/>
+    <surveyls_policy_notice_label/>
+    <surveyls_url/>
+    <surveyls_urldescription/>
+    <surveyls_email_invite_subj><![CDATA[Einladung zu einer Umfrage]]></surveyls_email_invite_subj>
+    <surveyls_email_invite><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Hiermit möchten wir Sie zu einer Umfrage einladen.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}<br />
+<br />
+Wenn Sie geblockt sind, jedoch wieder teilnehmen und weitere Einladungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTINURL}]]></surveyls_email_invite>
+    <surveyls_email_remind_subj><![CDATA[Erinnerung an die Teilnahme an einer Umfrage]]></surveyls_email_remind_subj>
+    <surveyls_email_remind><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vor kurzem haben wir Sie zu einer Umfrage eingeladen.<br />
+<br />
+Zu unserem Bedauern haben wir bemerkt, dass Sie die Umfrage noch nicht ausgefüllt haben. Wir möchten Ihnen mitteilen, dass die Umfrage noch aktiv ist und würden uns freuen, wenn Sie teilnehmen könnten.<br />
+<br />
+Der Titel der Umfrage ist <br />
+'{SURVEYNAME}'<br />
+<br />
+'{SURVEYDESCRIPTION}'<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den unten stehenden Link.<br />
+<br />
+ Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME} ({ADMINEMAIL})<br />
+<br />
+----------------------------------------------<br />
+Klicken Sie hier um die Umfrage zu starten:<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie an diese Umfrage nicht teilnehmen und keine weiteren Erinnerungen erhalten möchten, klicken Sie bitte auf den folgenden Link:<br />
+{OPTOUTURL}]]></surveyls_email_remind>
+    <surveyls_email_register_subj><![CDATA[Registrierungsbestätigung für Teilnahmeumfrage]]></surveyls_email_register_subj>
+    <surveyls_email_register><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Sie (oder jemand, der Ihre E-Mail benutzt hat) haben sich für eine Umfrage mit dem Titel {SURVEYNAME} angemeldet.<br />
+<br />
+Um an dieser Umfrage teilzunehmen, klicken Sie bitte auf den folgenden Link.<br />
+<br />
+{SURVEYURL}<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser Umfrage haben oder wenn Sie sich _nicht_ für diese Umfrage angemeldet haben und sie glauben, dass Ihnen diese E-Mail irrtümlicherweise zugeschickt worden ist, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.]]></surveyls_email_register>
+    <surveyls_email_confirm_subj><![CDATA[Bestätigung für die Teilnahme an unserer Umfrage]]></surveyls_email_confirm_subj>
+    <surveyls_email_confirm><![CDATA[Hallo {FIRSTNAME},<br />
+<br />
+Vielen Dank für die Teilnahme an der Umfrage mit dem Titel {SURVEYNAME}. Ihre Antworten wurden bei uns gespeichert.<br />
+<br />
+Wenn Sie irgendwelche Fragen zu dieser E-Mail haben, kontaktieren Sie bitte {ADMINNAME} unter {ADMINEMAIL}.<br />
+<br />
+Mit freundlichen Grüßen,<br />
+<br />
+{ADMINNAME}]]></surveyls_email_confirm>
+    <surveyls_dateformat><![CDATA[1]]></surveyls_dateformat>
+    <email_admin_notification_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME}]]></email_admin_notification_subj>
+    <email_admin_notification><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}]]></email_admin_notification>
+    <email_admin_responses_subj><![CDATA[Antwortabsendung für Umfrage {SURVEYNAME} mit Ergebnissen]]></email_admin_responses_subj>
+    <email_admin_responses><![CDATA[Hallo,<br />
+<br />
+Eine neue Antwort wurde für die Umfrage '{SURVEYNAME}' abgegeben.<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz anzusehen:<br />
+{VIEWRESPONSEURL}<br />
+<br />
+Klicken Sie auf den folgenden Link um den Antwortdatensatz zu bearbeiten:<br />
+{EDITRESPONSEURL}<br />
+<br />
+Um die Statistik zu sehen, klicken Sie hier:<br />
+{STATISTICSURL}<br />
+<br />
+<br />
+Die folgenden Antworten wurden vom Teilnehmer gegeben:<br />
+{ANSWERTABLE}]]></email_admin_responses>
+    <surveyls_numberformat><![CDATA[0]]></surveyls_numberformat>
+   </row>
+  </rows>
+ </surveys_languagesettings>
+ <themes>
+  <theme>
+   <sid>257533</sid>
+   <template_name>ds_extends_MA_Marie_Umfragedesign</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+  <theme>
+   <sid>257533</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>inherit</options>
+   </config>
+  </theme>
+ </themes>
+ <themes_inherited>
+  <theme>
+   <sid>257533</sid>
+   <template_name>ds_extends_MA_Marie_Umfragedesign</template_name>
+   <config>
+    <options>
+     <brandlogo>on</brandlogo>
+     <brandlogofile>./files/logo.png</brandlogofile>
+     <container>on</container>
+     <showpopups>1</showpopups>
+     <fixnumauto>off</fixnumauto>
+    </options>
+   </config>
+  </theme>
+  <theme>
+   <sid>257533</sid>
+   <template_name>vanilla</template_name>
+   <config>
+    <options>
+     <ajaxmode>off</ajaxmode>
+     <brandlogo>on</brandlogo>
+     <container>on</container>
+     <font>noto</font>
+     <backgroundimage>off</backgroundimage>
+     <backgroundimagefile>./files/pattern.png</backgroundimagefile>
+     <animatebody>off</animatebody>
+     <bodyanimation>fadeInRight</bodyanimation>
+     <bodyanimationduration>500</bodyanimationduration>
+     <animatequestion>off</animatequestion>
+     <questionanimation>flipInX</questionanimation>
+     <questionanimationduration>500</questionanimationduration>
+     <animatealert>off</animatealert>
+     <alertanimation>shake</alertanimation>
+     <alertanimationduration>500</alertanimationduration>
+     <bodybackgroundcolor>#ffffff</bodybackgroundcolor>
+     <fontcolor>#444444</fontcolor>
+     <questionbackgroundcolor>#ffffff</questionbackgroundcolor>
+     <questionborder>on</questionborder>
+     <questioncontainershadow>on</questioncontainershadow>
+     <checkicon>f00c</checkicon>
+     <animatecheckbox>on</animatecheckbox>
+     <checkboxanimation>rubberBand</checkboxanimation>
+     <checkboxanimationduration>500</checkboxanimationduration>
+     <animateradio>on</animateradio>
+     <radioanimation>zoomIn</radioanimation>
+     <radioanimationduration>500</radioanimationduration>
+     <zebrastriping>off</zebrastriping>
+     <stickymatrixheaders>off</stickymatrixheaders>
+     <greyoutselected>off</greyoutselected>
+     <hideprivacyinfo>off</hideprivacyinfo>
+     <crosshover>off</crosshover>
+     <showpopups>1</showpopups>
+    </options>
+   </config>
+  </theme>
+ </themes_inherited>
+</document>
