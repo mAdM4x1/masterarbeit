@@ -1,6 +1,6 @@
 # Technische Ressourcen der Masterarbeit
 
-In diesem Repository liegen die technischen Ressourcen zur Masterarbeit:
+In diesem Repository liegen die ergänzende Ressourcen zur Masterarbeit:
 
 _„Potenziale des Fediverse für Unternehmen im Vergleich zu kommerziellen Social-Media-Plattformen“_\
 Masterarbeit zur Erlangung des akademischen Grades\
@@ -9,9 +9,28 @@ Master of Science – Wirtschaftsinformatik
 vorgelegt von:		Göhring, Florian Maximilian 
 
 ## Inhalte
-- PSPP-Datei zur statistischen Auswertung der Limesurvey-Umfrage
+- PSPP-Dateien zur statistischen Auswertung der Limesurvey-Umfrage
+    - Kreuztabellen-Übersicht (HTML-Format)
+    - Kreuztabellenübersicht (Dokumentenformat)
+    - PSPP-Datendatei
+    - PSPP-Skriptdatei
+    - VBS-Formatierungsskript
 - R-Dateien zur visualisierung der Graphen
+    - R-Projektdateien
+    - R-Syntaxdatei
+    - CSV-Datendatei
 - Python-Code für weitere Visualisierungen und Berechnungen
+    - CSV-Datendatei
+    - Kreuztabellen-Kalkulation
+    - Python-Skript
+
+Außerdem sind folgende Daten verfügbar:
+- Umfrage-Dateien
+    - PDF (Druckversion)
+    - LimeSurvey-Strukturdatei
+- Rohergebnisse der Umfrage
+- Zotero-Formatierungsdatei für das Format der Wirtschaftswissenschaftlichen Fakultät der Universität Leipzig
+- Erstellte Balkendiagramme sowie Heatmap-Bilder
 
 ## Vorgehen
 1. Die erste Verarbeitung der Daten wurde mit PSPP vorgenommen. Dort werden die Daten in die entsprechende Form konvertiert und ausführliche Tabellen erstellt, die die statistischen Werte berechnen:
